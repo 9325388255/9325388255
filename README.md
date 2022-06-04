@@ -11,6 +11,23 @@ hi, i'm Krutika Wadhai,
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
  
+ 
+ - 🔭 I’m currently student at Masai School
+
+- 🌱 Learning **Java Backend & Full-Stack Web Development**
+
+- 👨‍💻 All of my projects are available at [https://github.com/9325388255?tab=repositories](https://github.com/9325388255?tab=repositories)
+
+- 💬 Ask me about **Java**
+
+- 📫 How to reach me **krut.wad@gmail.com**
+
+- ⚡ Fun fact **I watch the funny videos often.**
+
+- 🎯 Hobbies :**coding📕 | Swimming | Cooking | Making Rangoli | planting 🪴**
+
+- ⚡ Fact :**It's never late to get started 🫀:**
+ 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
