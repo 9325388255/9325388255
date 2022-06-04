@@ -25,7 +25,7 @@
 
 - ⚡ Fun fact **I watch the funny videos often.**
 
-- 🎯 Hobbies :**coding📕 | Swimming | travelling | Cooking | Making Rangoli | planting 🪴**
+- 🎯 Hobbies :**coding📕 | Swimming | travelling | Cooking | Making Rangoli | planting 🪴*
 
 - ⚡ Fact :**It's never late to get started 🫀:**
  
