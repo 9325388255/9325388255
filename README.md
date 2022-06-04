@@ -35,7 +35,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 
 <p align="center">
-  <img alt="Krutika Stats" src="https://github-readme-stats.vercel.app/api?username=9325388255&show_icons=true&theme=radical">
+  <img alt="Krutika Stars" src="https://github-readme-stats.vercel.app/api?username=9325388255&show_icons=true&theme=radical">
 </p>
 
 <p align="center">
