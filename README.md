@@ -43,7 +43,7 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 </p>
 
 -----
-Credits: [noorish](https://github.com/noorish100)
+Credits: [Krutika](https://github.com/9325388255)
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
