@@ -5,14 +5,15 @@
 </a>
 <br />
 
-hi, i'm Krutika Wadhai,
-<h4 align="center">Hi, I'm Krutika Wadhai, A Student, Learner and passionate self-taught Java Backend developer 🚀 from Chandrapur, India, currently 💻 learning Java Backend Development at Masai School. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i like to take great care in the experience, architecture, and code quality of the things I build...I am passionate about technology and want to learn & explore new technologies I'm Masai School Student, @Masai School. My hobbies and leisure interest includes Swimming.I love travelling and trekking.</h43>
-
  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
- 
- 
- - 🔭 I’m currently student at Masai School
+ - 🔭 I'm Masai School Student, @Masai School.
+
+- I’m  A Student, Learner and passionate Java Backend developer 🚀
+
+-I am passionate about technology and want to learn & explore new technologies
+
+ - 🔭 I’m living  in Mumbai India
 
 - 🌱 Learning **Java Backend & Full-Stack Web Development**
 
@@ -24,7 +25,7 @@ hi, i'm Krutika Wadhai,
 
 - ⚡ Fun fact **I watch the funny videos often.**
 
-- 🎯 Hobbies :**coding📕 | Swimming | Cooking | Making Rangoli | planting 🪴**
+- 🎯 Hobbies :**coding📕 | Swimming | travelling | Cooking | Making Rangoli | planting 🪴**
 
 - ⚡ Fact :**It's never late to get started 🫀:**
  
