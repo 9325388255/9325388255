@@ -9,7 +9,7 @@
  
  - 🔭 I'm Masai School Student.
 
-- I’m  A Student, Learner and passionate Java Backend developer 🚀
+ - 🔭 I’m  A Student, Learner and passionate Java Backend developer 🚀
 
 -I am passionate about technology and want to learn & explore new technologies
 
