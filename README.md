@@ -11,7 +11,7 @@
 
  - 🔭 I’m  A Student, Learner and passionate Java Backend developer 🚀
 
--I am passionate about technology and want to learn & explore new technologies
+ - I am passionate about technology and want to learn & explore new technologies
 
  - 🔭 I’m living  in Mumbai India
 
