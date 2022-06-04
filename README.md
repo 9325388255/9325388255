@@ -13,7 +13,7 @@
 
  - I am passionate about technology and want to learn & explore new technologies
 
- - 🔭 I’m living  in Mumbai India
+ - I’m living  in Mumbai India 
 
 - 🌱 Learning **Java Backend & Full-Stack Web Development**
 
